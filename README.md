@@ -39,15 +39,57 @@ An **MCP (Model Context Protocol) server** for managing employee leave workflows
 ---
 
 ## 📦 Installation
-
-```bash
-# Install uv if not installed
+### Install uv if not installed
+```
 pip3 install uv
+```
 
-# Create project
+### Create project
+```
 uv init my-first-mcp-server
 cd my-first-mcp-server
+```
 
-# Add MCP
+### Add MCP
+```
 uv add "mcp[cli]"
 ```
+
+---
+
+## ▶️ Run the Server
+```
+uv run main.py
+```
+## 🔗 Connect to Claude Desktop
+### Enable Developer Mode
+### Install MCP server:
+```
+uv run mcp install main.py
+```
+### Restart Claude Desktop
+
+---
+
+## 💡 Example Queries
+- “Apply leave for employee E001 from 2024-04-10 to 2024-04-12”
+- “Approve leave request L001”
+- “Check leave balance for E002”
+- “Show all leave requests”
+
+---
+
+## 📊 Project Impact
+- Automated leave management workflows
+- Enabled LLM-driven tool execution
+- Reduced manual HR operations through structured automation
+- Built modular system using tools, resources, and prompts
+
+---
+
+## 🔮 Future Improvements
+- 🗄️ Database integration (PostgreSQL / SQLite)
+- 🔐 Authentication & role-based access
+- 📊 Dashboard UI
+- 📁 Multi-organization support
+- 📈 Analytics on leave patterns
