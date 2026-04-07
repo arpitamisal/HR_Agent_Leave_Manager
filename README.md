@@ -2,7 +2,10 @@
 
 An **MCP (Model Context Protocol) server** for managing employee leave workflows using **LLM-driven tools, resources, and prompts**. This project enables intelligent interaction with a leave management system through natural language.
 
----
+---<img width="1181" height="887" alt="Screenshot 2026-04-06 at 8 50 45 PM" src="https://github.com/user-attachments/assets/6cc45ec2-0da6-427f-8c21-fe76d088c281" />
+<img width="1470" height="956" alt="Screenshot 2026-04-06 at 7 47 35 PM" src="https://github.com/user-attachments/assets/a2d52a20-19fd-43bf-bdb3-bebb0ea2765e" />
+<img width="1470" height="956" alt="Screenshot 2026-04-06 at 7 47 06 PM" src="https://github.com/user-attachments/assets/f2c9ee2e-c661-4360-853e-2b3c03770120" />
+<img width="1470" height="956" alt="Screenshot 2026-04-06 at 7 46 44 PM" src="https://github.com/user-attachments/assets/3a048c33-672b-48a2-9f4c-3090c480b71f" />
 
 ## 🚀 Features
 
